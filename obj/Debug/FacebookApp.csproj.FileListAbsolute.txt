@@ -1,0 +1,12 @@
+C:\Users\noamn\Desktop\C#Practice\DP3\A20 Ex03 NoamNachtomy 302370341 PelegBetter 311118533\obj\Debug\FacebookApp.csprojAssemblyReference.cache
+C:\Users\noamn\Desktop\C#Practice\DP3\A20 Ex03 NoamNachtomy 302370341 PelegBetter 311118533\obj\Debug\FacebookApp.LoginForm.resources
+C:\Users\noamn\Desktop\C#Practice\DP3\A20 Ex03 NoamNachtomy 302370341 PelegBetter 311118533\obj\Debug\FacebookApp.MainForm.resources
+C:\Users\noamn\Desktop\C#Practice\DP3\A20 Ex03 NoamNachtomy 302370341 PelegBetter 311118533\obj\Debug\DP._302370341._311118533.Properties.Resources.resources
+C:\Users\noamn\Desktop\C#Practice\DP3\A20 Ex03 NoamNachtomy 302370341 PelegBetter 311118533\obj\Debug\FacebookApp.csproj.GenerateResource.cache
+C:\Users\noamn\Desktop\C#Practice\DP3\A20 Ex03 NoamNachtomy 302370341 PelegBetter 311118533\bin\Debug\DP.302370341.311118533.exe
+C:\Users\noamn\Desktop\C#Practice\DP3\A20 Ex03 NoamNachtomy 302370341 PelegBetter 311118533\bin\Debug\DP.302370341.311118533.pdb
+C:\Users\noamn\Desktop\C#Practice\DP3\A20 Ex03 NoamNachtomy 302370341 PelegBetter 311118533\bin\Debug\Facebook.dll
+C:\Users\noamn\Desktop\C#Practice\DP3\A20 Ex03 NoamNachtomy 302370341 PelegBetter 311118533\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\noamn\Desktop\C#Practice\DP3\A20 Ex03 NoamNachtomy 302370341 PelegBetter 311118533\obj\Debug\FacebookApp.csproj.CopyComplete
+C:\Users\noamn\Desktop\C#Practice\DP3\A20 Ex03 NoamNachtomy 302370341 PelegBetter 311118533\obj\Debug\DP.302370341.311118533.exe
+C:\Users\noamn\Desktop\C#Practice\DP3\A20 Ex03 NoamNachtomy 302370341 PelegBetter 311118533\obj\Debug\DP.302370341.311118533.pdb
